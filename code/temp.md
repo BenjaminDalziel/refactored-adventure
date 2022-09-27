@@ -2,4 +2,4 @@
 
 ## Here is a subheading
 
-Here is a [link](../data/)
+Here is a [link](../data/) to my data folder in the repo.
